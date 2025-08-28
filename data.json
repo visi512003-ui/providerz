@@ -1,0 +1,89 @@
+{
+  "professionals": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@email.com",
+      "phone": "+1-555-0123",
+      "category": "technology",
+      "specialization": "Full Stack Development",
+      "experience": "5 years",
+      "education": "Bachelor's in Computer Science",
+      "skills": "JavaScript, Python, React, Node.js, PostgreSQL",
+      "hourly_rate": "75",
+      "availability": "Full-time",
+      "portfolio_link": "https://johnsmith.dev",
+      "linkedin_profile": "https://linkedin.com/in/johnsmith",
+      "certifications": "AWS Certified Developer",
+      "languages": "English, Spanish",
+      "location": "San Francisco, CA",
+      "remote_work": true,
+      "registration_date": "2024-01-15T10:30:00"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@email.com",
+      "phone": "+1-555-0124",
+      "category": "education",
+      "specialization": "Mathematics Teacher",
+      "experience": "8 years",
+      "education": "Master's in Mathematics Education",
+      "skills": "Algebra, Calculus, Statistics, Online Teaching",
+      "hourly_rate": "45",
+      "availability": "Part-time",
+      "portfolio_link": "",
+      "linkedin_profile": "https://linkedin.com/in/sarahjohnson",
+      "certifications": "Teaching License, Online Education Certificate",
+      "languages": "English",
+      "location": "New York, NY",
+      "remote_work": true,
+      "registration_date": "2024-01-20T14:15:00"
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "TechCorp Solutions",
+      "email": "hr@techcorp.com",
+      "phone": "+1-555-0200",
+      "address": "123 Tech Street, Silicon Valley, CA",
+      "type": "Technology Company",
+      "description": "Leading software development company specializing in web applications and mobile solutions."
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "professional_id": 1,
+      "organization_name": "TechCorp Solutions",
+      "contact_email": "hr@techcorp.com",
+      "contact_phone": "+1-555-0200",
+      "start_date": "2024-02-01",
+      "end_date": "2024-04-30",
+      "project_type": "Long-term contract",
+      "requirements": "Full stack development for e-commerce platform",
+      "budget": "15000",
+      "booking_date": "2024-01-25T09:00:00",
+      "status": "pending"
+    }
+  ],
+  "job_posts": [
+    {
+      "id": 1,
+      "title": "Senior Python Developer",
+      "company": "TechCorp Solutions",
+      "category": "technology",
+      "description": "We are looking for an experienced Python developer to join our team.",
+      "requirements": "5+ years Python experience, Django/Flask, PostgreSQL",
+      "salary_range": "$80,000 - $120,000",
+      "location": "San Francisco, CA",
+      "remote_allowed": true,
+      "employment_type": "Full-time",
+      "contact_email": "hr@techcorp.com",
+      "deadline": "2024-03-15",
+      "posted_date": "2024-01-25T10:00:00",
+      "status": "active"
+    }
+  ]
+}
